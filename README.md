@@ -1,1 +1,1 @@
-# beeVersion2
+Để chạy npm i 
